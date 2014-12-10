@@ -1,0 +1,5 @@
+E:\MEHEDI VS Work\Day1Prob6App\Day1Prob6App\bin\Debug\Day1Prob6App.exe.config
+E:\MEHEDI VS Work\Day1Prob6App\Day1Prob6App\bin\Debug\Day1Prob6App.exe
+E:\MEHEDI VS Work\Day1Prob6App\Day1Prob6App\bin\Debug\Day1Prob6App.pdb
+E:\MEHEDI VS Work\Day1Prob6App\Day1Prob6App\obj\Debug\Day1Prob6App.exe
+E:\MEHEDI VS Work\Day1Prob6App\Day1Prob6App\obj\Debug\Day1Prob6App.pdb

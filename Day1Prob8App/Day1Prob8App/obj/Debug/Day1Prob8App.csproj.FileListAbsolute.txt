@@ -1,0 +1,9 @@
+E:\MEHEDI VS Work\Day1Prob8App\Day1Prob8App\bin\Debug\Day1Prob8App.exe.config
+E:\MEHEDI VS Work\Day1Prob8App\Day1Prob8App\bin\Debug\Day1Prob8App.exe
+E:\MEHEDI VS Work\Day1Prob8App\Day1Prob8App\bin\Debug\Day1Prob8App.pdb
+E:\MEHEDI VS Work\Day1Prob8App\Day1Prob8App\obj\Debug\Day1Prob8App.csprojResolveAssemblyReference.cache
+E:\MEHEDI VS Work\Day1Prob8App\Day1Prob8App\obj\Debug\Day1Prob8App.exe
+E:\MEHEDI VS Work\Day1Prob8App\Day1Prob8App\obj\Debug\Day1Prob8App.pdb
+G:\MEHEDI VS Work\Day1Prob8App\Day1Prob8App\bin\Debug\Day1Prob8App.exe.config
+G:\MEHEDI VS Work\Day1Prob8App\Day1Prob8App\obj\Debug\Day1Prob8App.exe
+G:\MEHEDI VS Work\Day1Prob8App\Day1Prob8App\obj\Debug\Day1Prob8App.pdb

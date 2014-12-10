@@ -1,0 +1,6 @@
+E:\MEHEDI VS Work\Day1Prob2App\Day1Prob2App\bin\Debug\Day1Prob2App.exe.config
+E:\MEHEDI VS Work\Day1Prob2App\Day1Prob2App\bin\Debug\Day1Prob2App.exe
+E:\MEHEDI VS Work\Day1Prob2App\Day1Prob2App\bin\Debug\Day1Prob2App.pdb
+E:\MEHEDI VS Work\Day1Prob2App\Day1Prob2App\obj\Debug\Day1Prob2App.csprojResolveAssemblyReference.cache
+E:\MEHEDI VS Work\Day1Prob2App\Day1Prob2App\obj\Debug\Day1Prob2App.exe
+E:\MEHEDI VS Work\Day1Prob2App\Day1Prob2App\obj\Debug\Day1Prob2App.pdb

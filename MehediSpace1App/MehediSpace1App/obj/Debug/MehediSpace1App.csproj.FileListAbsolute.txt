@@ -1,0 +1,6 @@
+E:\MehediSpace1App\MehediSpace1App\bin\Debug\MehediSpace1App.exe.config
+E:\MehediSpace1App\MehediSpace1App\bin\Debug\MehediSpace1App.exe
+E:\MehediSpace1App\MehediSpace1App\bin\Debug\MehediSpace1App.pdb
+E:\MehediSpace1App\MehediSpace1App\obj\Debug\MehediSpace1App.csprojResolveAssemblyReference.cache
+E:\MehediSpace1App\MehediSpace1App\obj\Debug\MehediSpace1App.exe
+E:\MehediSpace1App\MehediSpace1App\obj\Debug\MehediSpace1App.pdb
